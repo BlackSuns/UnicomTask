@@ -73,6 +73,9 @@ LOTTERY_NUM | 填写正整数 | 抽奖次数(可选)
 
 删除掉`README.md`中的😄即可。完成后，每天早上`7:30`将自动完成每日任务。
 
+测试
+
+
 ![](https://draw-static.vercel.app/UnicomTask/进行一次push操作.gif)
 
 # 同步上游代码
